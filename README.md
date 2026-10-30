@@ -148,25 +148,25 @@ The goal is simple: if the machine restarts while I am away, my applications sho
 
 A private Telegram bot that allows me to monitor the server and check its status directly from my phone.
 
-![Telegram Monitoring Bot](assets/telegram.jpg)
+![Telegram Monitoring Bot](assets/telegram.png)
 
 ### Portainer
 
 An overview of the Docker environment and running containers.
 
-![Portainer Dashboard](assets/portainer.jpg)
+![Portainer Dashboard](assets/portainer.png)
 
 ### Uptime Kuma
 
 Availability monitoring for the hosted applications and supporting services.
 
-![Uptime Kuma Dashboard](assets/uptime-kuma.jpg)
+![Uptime Kuma Dashboard](assets/uptime-kuma.png)
 
 ### Netdata
 
 Detailed server metrics and system resource monitoring.
 
-![Netdata Dashboard](assets/netdata.jpg)
+![Netdata Dashboard](assets/netdata.png)
 
 ## What This Project Taught Me
 
